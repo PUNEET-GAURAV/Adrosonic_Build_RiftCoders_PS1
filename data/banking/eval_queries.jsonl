@@ -1,0 +1,121 @@
+{"query": "I need help with my kyc onboarding passport.", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What are the identity proof requirements for kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "I need help with my kyc onboarding address proof.", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What happens to my documents if I close my kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "Can you explain onboarding for kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "Where can I find the form for kyc onboarding passport?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What happens to my identity proof if I close my kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What happens to my kyc if I close my kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "Can you explain kyc for kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "Tell me about kyc onboarding account opening policies.", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "Is pan card mandatory for kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What happens to my passport if I close my kyc onboarding?", "expected_domain": "kyc_onboarding", "type": "explicit"}
+{"query": "What happens to my interest rate if I close my savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Are there hidden fees for overdraft in savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "What happens to my interest rate if I close my savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "I need help with my savings current accounts overdraft.", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "What happens to my interest rate if I close my savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Can you explain overdraft for savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "What happens to my minimum balance if I close my savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Tell me about savings current accounts overdraft policies.", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Are there hidden fees for savings in savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "I need help with my savings current accounts minimum balance.", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Where can I find the form for savings current accounts current account?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "What is the limit on minimum balance in savings current accounts?", "expected_domain": "savings_current_accounts", "type": "explicit"}
+{"query": "Can you explain emi for loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "Are there hidden fees for collateral in loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "Where can I find the form for loans collateral?", "expected_domain": "loans", "type": "explicit"}
+{"query": "Can you explain interest rate for loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "I need help with my loans mortgage.", "expected_domain": "loans", "type": "explicit"}
+{"query": "What happens to my loan if I close my loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "What are the interest rate requirements for loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "Where can I find the form for loans mortgage?", "expected_domain": "loans", "type": "explicit"}
+{"query": "I need help with my loans personal loan.", "expected_domain": "loans", "type": "explicit"}
+{"query": "Where can I find the form for loans personal loan?", "expected_domain": "loans", "type": "explicit"}
+{"query": "How do I apply for a loan in loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "What is the limit on personal loan in loans?", "expected_domain": "loans", "type": "explicit"}
+{"query": "What happens to my recurring deposit if I close my fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "What is the limit on penalty in fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Is interest mandatory for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "I need help with my fixed deposits fd.", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Is recurring deposit mandatory for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Is penalty mandatory for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Can you explain fixed deposit for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "How do I apply for a rd in fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Is rd mandatory for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "I need help with my fixed deposits recurring deposit.", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "How do I apply for a interest in fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Is fixed deposit mandatory for fixed deposits?", "expected_domain": "fixed_deposits", "type": "explicit"}
+{"query": "Are there hidden fees for health insurance in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "How do I apply for a insurance in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "Can you explain health insurance for insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "Tell me about insurance bancassurance insurance policies.", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "Can you explain nominee for insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "What are the coverage requirements for insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "What is the limit on coverage in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "Are there hidden fees for term life in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "Can you explain claim for insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "I need help with my insurance bancassurance policy.", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "How do I apply for a nominee in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "What is the limit on term life in insurance bancassurance?", "expected_domain": "insurance_bancassurance", "type": "explicit"}
+{"query": "I need help with my cards lounge access.", "expected_domain": "cards", "type": "explicit"}
+{"query": "Are there hidden fees for pin in cards?", "expected_domain": "cards", "type": "explicit"}
+{"query": "Where can I find the form for cards reward points?", "expected_domain": "cards", "type": "explicit"}
+{"query": "I need help with my cards lounge access.", "expected_domain": "cards", "type": "explicit"}
+{"query": "Tell me about cards reward points policies.", "expected_domain": "cards", "type": "explicit"}
+{"query": "Are there hidden fees for reward points in cards?", "expected_domain": "cards", "type": "explicit"}
+{"query": "What happens to my cvv if I close my cards?", "expected_domain": "cards", "type": "explicit"}
+{"query": "Where can I find the form for cards debit card?", "expected_domain": "cards", "type": "explicit"}
+{"query": "What happens to my annual fee if I close my cards?", "expected_domain": "cards", "type": "explicit"}
+{"query": "Tell me about cards credit card policies.", "expected_domain": "cards", "type": "explicit"}
+{"query": "Where can I find the form for cards reward points?", "expected_domain": "cards", "type": "explicit"}
+{"query": "Are there hidden fees for credit card in cards?", "expected_domain": "cards", "type": "explicit"}
+{"query": "How do I apply for a remittance in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "Are there hidden fees for transaction limit in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "How do I apply for a transaction limit in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "What are the transaction limit requirements for payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "Is neft mandatory for payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "What are the imps requirements for payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "Where can I find the form for payments transfers remittance?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "What is the limit on transfer in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "Can you explain imps for payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "How do I apply for a transfer in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "What is the limit on rtgs in payments transfers?", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "I need help with my payments transfers swift.", "expected_domain": "payments_transfers", "type": "explicit"}
+{"query": "Can you explain ombudsman for grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "Is ombudsman mandatory for grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What is the limit on helpline in grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "Can you explain chargeback for grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What happens to my complaint if I close my grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "How do I apply for a ombudsman in grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "Tell me about grievance complaints ombudsman policies.", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "I need help with my grievance complaints ombudsman.", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What is the limit on customer care in grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What is the limit on helpline in grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What are the chargeback requirements for grievance complaints?", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "Tell me about grievance complaints ombudsman policies.", "expected_domain": "grievance_complaints", "type": "explicit"}
+{"query": "What documents are needed?", "expected_domain": null, "type": "ambiguous"}
+{"query": "How long does the process take?", "expected_domain": null, "type": "ambiguous"}
+{"query": "What is the interest rate?", "expected_domain": null, "type": "ambiguous"}
+{"query": "Can I cancel it?", "expected_domain": null, "type": "ambiguous"}
+{"query": "Where is the branch?", "expected_domain": null, "type": "ambiguous"}
+{"query": "What are the fees?", "expected_domain": null, "type": "ambiguous"}
+{"query": "Is this available for NRIs?", "expected_domain": null, "type": "ambiguous"}
+{"query": "Do I need to visit the branch?", "expected_domain": null, "type": "ambiguous"}
+{"query": "Can I do this online?", "expected_domain": null, "type": "ambiguous"}
+{"query": "How to check my status?", "expected_domain": null, "type": "ambiguous"}
+{"query": "What's the weather today?", "expected_domain": null, "type": "out_of_scope"}
+{"query": "Who won the match?", "expected_domain": null, "type": "out_of_scope"}
+{"query": "Recipe for pasta", "expected_domain": null, "type": "out_of_scope"}
+{"query": "How to fix a flat tire", "expected_domain": null, "type": "out_of_scope"}
+{"query": "Best movies of 2023", "expected_domain": null, "type": "out_of_scope"}
+{"query": "KYC documents for a home loan", "expected_domain": "loans", "type": "cross_domain"}
+{"query": "FD interest rates for a savings account holder", "expected_domain": "fixed_deposits", "type": "cross_domain"}
+{"query": "Credit card limit increase using my RD balance", "expected_domain": "cards", "type": "cross_domain"}
+{"query": "Life insurance premium auto-deduct from current account", "expected_domain": "insurance_bancassurance", "type": "cross_domain"}
+{"query": "NEFT transfer bounced due to minimum balance", "expected_domain": "payments_transfers", "type": "cross_domain"}
+{"query": "Report fraud on my debit card via ombudsman", "expected_domain": "grievance_complaints", "type": "cross_domain"}
+{"query": "What is the penalty for premature FD withdrawal to pay home loan EMI", "expected_domain": "fixed_deposits", "type": "cross_domain"}
+{"query": "Apply for personal loan without address proof", "expected_domain": "loans", "type": "cross_domain"}
+{"query": "Can I get a forex card without opening a savings account?", "expected_domain": "cards", "type": "cross_domain"}
+{"query": "Will my health insurance cover Covid-19 treatment?", "expected_domain": "insurance_bancassurance", "type": "cross_domain"}

@@ -1,0 +1,6 @@
+{
+  "count": 100096,
+  "source": "msmarco",
+  "wall_seconds": 3403.0,
+  "throughput_per_s": 29.41
+}

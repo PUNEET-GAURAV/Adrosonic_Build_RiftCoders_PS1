@@ -1,0 +1,1015 @@
+{
+  "summary": {
+    "mode": "hybrid_rerank",
+    "n": 100,
+    "warmup": 5,
+    "p50": 109.15,
+    "p90": 134.72,
+    "p95": 138.94,
+    "p99": 258.91,
+    "max": 265.67,
+    "mean": 114.41
+  },
+  "rows": [
+    {
+      "query": ")what was the immediate impact of the success of the manhattan project?",
+      "client_ms": 93.59,
+      "timings_ms": {
+        "embed": 63.02,
+        "retrieve": 25.39,
+        "rerank": null,
+        "total": 88.49
+      }
+    },
+    {
+      "query": "_________ justice is designed to repair the harm to victim, the community and the offender caused by the offender criminal act. question 19 options:",
+      "client_ms": 134.95,
+      "timings_ms": {
+        "embed": 81.68,
+        "retrieve": 48.43,
+        "rerank": null,
+        "total": 130.19
+      }
+    },
+    {
+      "query": "why did stalin want control of eastern europe",
+      "client_ms": 111.05,
+      "timings_ms": {
+        "embed": 72.55,
+        "retrieve": 32.05,
+        "rerank": null,
+        "total": 104.7
+      }
+    },
+    {
+      "query": "why do nails get rusty",
+      "client_ms": 135.03,
+      "timings_ms": {
+        "embed": 67.39,
+        "retrieve": 61.44,
+        "rerank": null,
+        "total": 128.95
+      }
+    },
+    {
+      "query": "depona ab",
+      "client_ms": 102.24,
+      "timings_ms": {
+        "embed": 66.99,
+        "retrieve": 29.77,
+        "rerank": null,
+        "total": 96.85
+      }
+    },
+    {
+      "query": "nyu tuition cost",
+      "client_ms": 116.07,
+      "timings_ms": {
+        "embed": 71.15,
+        "retrieve": 39.58,
+        "rerank": null,
+        "total": 110.81
+      }
+    },
+    {
+      "query": "at what age do kids start to hold memories",
+      "client_ms": 117.18,
+      "timings_ms": {
+        "embed": 66.8,
+        "retrieve": 45.27,
+        "rerank": null,
+        "total": 112.15
+      }
+    },
+    {
+      "query": "average teeth brushing time",
+      "client_ms": 103.93,
+      "timings_ms": {
+        "embed": 66.8,
+        "retrieve": 30.55,
+        "rerank": null,
+        "total": 97.43
+      }
+    },
+    {
+      "query": "is funner a word?",
+      "client_ms": 131.74,
+      "timings_ms": {
+        "embed": 90.65,
+        "retrieve": 35.04,
+        "rerank": null,
+        "total": 125.79
+      }
+    },
+    {
+      "query": "what is ce certified",
+      "client_ms": 144.74,
+      "timings_ms": {
+        "embed": 85.96,
+        "retrieve": 52.95,
+        "rerank": null,
+        "total": 139.02
+      }
+    },
+    {
+      "query": "bancfirst customer service number",
+      "client_ms": 138.72,
+      "timings_ms": {
+        "embed": 80.33,
+        "retrieve": 52.61,
+        "rerank": null,
+        "total": 133.04
+      }
+    },
+    {
+      "query": "what county is dewitt michigan in?",
+      "client_ms": 108.51,
+      "timings_ms": {
+        "embed": 72.32,
+        "retrieve": 31.04,
+        "rerank": null,
+        "total": 103.45
+      }
+    },
+    {
+      "query": "using cpap without prescription",
+      "client_ms": 103.26,
+      "timings_ms": {
+        "embed": 63.82,
+        "retrieve": 34.61,
+        "rerank": null,
+        "total": 98.5
+      }
+    },
+    {
+      "query": "what is early bird check in southwest",
+      "client_ms": 102.41,
+      "timings_ms": {
+        "embed": 67.44,
+        "retrieve": 29.44,
+        "rerank": null,
+        "total": 96.97
+      }
+    },
+    {
+      "query": "what county is columbus city in",
+      "client_ms": 97.08,
+      "timings_ms": {
+        "embed": 66.67,
+        "retrieve": 24.7,
+        "rerank": null,
+        "total": 91.47
+      }
+    },
+    {
+      "query": "social security administration in bellevue wa hours",
+      "client_ms": 123.18,
+      "timings_ms": {
+        "embed": 74.75,
+        "retrieve": 42.92,
+        "rerank": null,
+        "total": 117.76
+      }
+    },
+    {
+      "query": "are whiskers on cats used for balance",
+      "client_ms": 128.56,
+      "timings_ms": {
+        "embed": 89.38,
+        "retrieve": 33.3,
+        "rerank": null,
+        "total": 122.76
+      }
+    },
+    {
+      "query": "what county is shelton, ct",
+      "client_ms": 135.81,
+      "timings_ms": {
+        "embed": 98.59,
+        "retrieve": 31.41,
+        "rerank": null,
+        "total": 130.08
+      }
+    },
+    {
+      "query": "is the bachelor legal",
+      "client_ms": 114.0,
+      "timings_ms": {
+        "embed": 80.96,
+        "retrieve": 27.32,
+        "rerank": null,
+        "total": 108.37
+      }
+    },
+    {
+      "query": "what is BP level j salary",
+      "client_ms": 107.96,
+      "timings_ms": {
+        "embed": 71.94,
+        "retrieve": 30.24,
+        "rerank": null,
+        "total": 102.28
+      }
+    },
+    {
+      "query": "what dba mean",
+      "client_ms": 113.99,
+      "timings_ms": {
+        "embed": 66.86,
+        "retrieve": 41.38,
+        "rerank": null,
+        "total": 108.33
+      }
+    },
+    {
+      "query": "average cost of assisted living in washington state",
+      "client_ms": 121.85,
+      "timings_ms": {
+        "embed": 89.59,
+        "retrieve": 26.92,
+        "rerank": null,
+        "total": 116.61
+      }
+    },
+    {
+      "query": "what disability is copd",
+      "client_ms": 102.29,
+      "timings_ms": {
+        "embed": 60.71,
+        "retrieve": 37.09,
+        "rerank": null,
+        "total": 97.88
+      }
+    },
+    {
+      "query": "what is a omurice omelet",
+      "client_ms": 133.57,
+      "timings_ms": {
+        "embed": 69.47,
+        "retrieve": 58.42,
+        "rerank": null,
+        "total": 128.01
+      }
+    },
+    {
+      "query": "how much does it cost to change a jeep alternator",
+      "client_ms": 112.17,
+      "timings_ms": {
+        "embed": 77.29,
+        "retrieve": 29.29,
+        "rerank": null,
+        "total": 106.67
+      }
+    },
+    {
+      "query": "what does folic acid do",
+      "client_ms": 109.51,
+      "timings_ms": {
+        "embed": 76.36,
+        "retrieve": 27.92,
+        "rerank": null,
+        "total": 104.37
+      }
+    },
+    {
+      "query": "what county is seminole fl in",
+      "client_ms": 101.98,
+      "timings_ms": {
+        "embed": 67.28,
+        "retrieve": 28.96,
+        "rerank": null,
+        "total": 96.33
+      }
+    },
+    {
+      "query": "average cost dental implant",
+      "client_ms": 104.98,
+      "timings_ms": {
+        "embed": 69.05,
+        "retrieve": 30.41,
+        "rerank": null,
+        "total": 99.55
+      }
+    },
+    {
+      "query": "what does granuloma annulare look like",
+      "client_ms": 107.3,
+      "timings_ms": {
+        "embed": 75.54,
+        "retrieve": 26.39,
+        "rerank": null,
+        "total": 102.02
+      }
+    },
+    {
+      "query": "the importance of minerals in diet",
+      "client_ms": 99.93,
+      "timings_ms": {
+        "embed": 66.89,
+        "retrieve": 28.11,
+        "rerank": null,
+        "total": 95.09
+      }
+    },
+    {
+      "query": "prize money taxable income",
+      "client_ms": 105.26,
+      "timings_ms": {
+        "embed": 62.88,
+        "retrieve": 37.43,
+        "rerank": null,
+        "total": 100.4
+      }
+    },
+    {
+      "query": "what county is nine mile in",
+      "client_ms": 104.36,
+      "timings_ms": {
+        "embed": 65.11,
+        "retrieve": 34.17,
+        "rerank": null,
+        "total": 99.36
+      }
+    },
+    {
+      "query": "what is a salpingectomies",
+      "client_ms": 122.23,
+      "timings_ms": {
+        "embed": 76.34,
+        "retrieve": 40.46,
+        "rerank": null,
+        "total": 116.91
+      }
+    },
+    {
+      "query": "triglycerides what are they",
+      "client_ms": 118.44,
+      "timings_ms": {
+        "embed": 82.44,
+        "retrieve": 30.45,
+        "rerank": null,
+        "total": 112.98
+      }
+    },
+    {
+      "query": "what causes resorption of teeth",
+      "client_ms": 143.16,
+      "timings_ms": {
+        "embed": 71.17,
+        "retrieve": 66.27,
+        "rerank": null,
+        "total": 137.55
+      }
+    },
+    {
+      "query": "how to transport oxygen tanks",
+      "client_ms": 131.05,
+      "timings_ms": {
+        "embed": 78.08,
+        "retrieve": 47.43,
+        "rerank": null,
+        "total": 125.6
+      }
+    },
+    {
+      "query": "is the cheetah an endangered species",
+      "client_ms": 99.52,
+      "timings_ms": {
+        "embed": 68.35,
+        "retrieve": 25.94,
+        "rerank": null,
+        "total": 94.38
+      }
+    },
+    {
+      "query": "what is in garcinia cambogia",
+      "client_ms": 108.63,
+      "timings_ms": {
+        "embed": 69.62,
+        "retrieve": 33.39,
+        "rerank": null,
+        "total": 103.11
+      }
+    },
+    {
+      "query": "average conservatory cost",
+      "client_ms": 129.53,
+      "timings_ms": {
+        "embed": 65.99,
+        "retrieve": 57.98,
+        "rerank": null,
+        "total": 124.06
+      }
+    },
+    {
+      "query": "is the cobb house haunted in vicksburg mississippi",
+      "client_ms": 109.29,
+      "timings_ms": {
+        "embed": 71.54,
+        "retrieve": 32.63,
+        "rerank": null,
+        "total": 104.28
+      }
+    },
+    {
+      "query": "what do you put at purpose for partnership agreement",
+      "client_ms": 123.05,
+      "timings_ms": {
+        "embed": 66.16,
+        "retrieve": 51.9,
+        "rerank": null,
+        "total": 118.13
+      }
+    },
+    {
+      "query": "medical coding how many days is considered acute?",
+      "client_ms": 120.67,
+      "timings_ms": {
+        "embed": 68.8,
+        "retrieve": 46.46,
+        "rerank": null,
+        "total": 115.34
+      }
+    },
+    {
+      "query": "the meaning of reverence",
+      "client_ms": 128.11,
+      "timings_ms": {
+        "embed": 71.86,
+        "retrieve": 50.89,
+        "rerank": null,
+        "total": 122.84
+      }
+    },
+    {
+      "query": "thick bronchial secretions causes",
+      "client_ms": 113.79,
+      "timings_ms": {
+        "embed": 76.92,
+        "retrieve": 31.48,
+        "rerank": null,
+        "total": 108.51
+      }
+    },
+    {
+      "query": "fisher price i can play keyboard",
+      "client_ms": 112.61,
+      "timings_ms": {
+        "embed": 76.55,
+        "retrieve": 30.31,
+        "rerank": null,
+        "total": 106.96
+      }
+    },
+    {
+      "query": "what are phish",
+      "client_ms": 124.07,
+      "timings_ms": {
+        "embed": 87.2,
+        "retrieve": 31.9,
+        "rerank": null,
+        "total": 119.18
+      }
+    },
+    {
+      "query": "what is information literacy",
+      "client_ms": 124.2,
+      "timings_ms": {
+        "embed": 76.31,
+        "retrieve": 42.33,
+        "rerank": null,
+        "total": 118.73
+      }
+    },
+    {
+      "query": "is the colon in the lower intestine",
+      "client_ms": 143.76,
+      "timings_ms": {
+        "embed": 90.75,
+        "retrieve": 47.4,
+        "rerank": null,
+        "total": 138.25
+      }
+    },
+    {
+      "query": "time change new zealand",
+      "client_ms": 101.07,
+      "timings_ms": {
+        "embed": 65.94,
+        "retrieve": 29.75,
+        "rerank": null,
+        "total": 95.78
+      }
+    },
+    {
+      "query": "meaning of conquest",
+      "client_ms": 116.1,
+      "timings_ms": {
+        "embed": 66.59,
+        "retrieve": 43.82,
+        "rerank": null,
+        "total": 110.5
+      }
+    },
+    {
+      "query": "what does body habitus mean",
+      "client_ms": 109.0,
+      "timings_ms": {
+        "embed": 77.68,
+        "retrieve": 25.71,
+        "rerank": null,
+        "total": 103.48
+      }
+    },
+    {
+      "query": "define traumatic",
+      "client_ms": 258.84,
+      "timings_ms": {
+        "embed": 202.82,
+        "retrieve": 50.22,
+        "rerank": null,
+        "total": 253.13
+      }
+    },
+    {
+      "query": "what are silicates?",
+      "client_ms": 114.01,
+      "timings_ms": {
+        "embed": 79.35,
+        "retrieve": 29.2,
+        "rerank": null,
+        "total": 108.64
+      }
+    },
+    {
+      "query": "what is a forcing cone",
+      "client_ms": 109.58,
+      "timings_ms": {
+        "embed": 71.38,
+        "retrieve": 32.09,
+        "rerank": null,
+        "total": 103.56
+      }
+    },
+    {
+      "query": "what are the risks associated with the use of nuclear energy",
+      "client_ms": 122.36,
+      "timings_ms": {
+        "embed": 88.24,
+        "retrieve": 28.93,
+        "rerank": null,
+        "total": 117.24
+      }
+    },
+    {
+      "query": "what county is honeoye in",
+      "client_ms": 128.22,
+      "timings_ms": {
+        "embed": 68.61,
+        "retrieve": 54.31,
+        "rerank": null,
+        "total": 123.02
+      }
+    },
+    {
+      "query": "different types of social security disability",
+      "client_ms": 108.53,
+      "timings_ms": {
+        "embed": 72.31,
+        "retrieve": 30.7,
+        "rerank": null,
+        "total": 103.1
+      }
+    },
+    {
+      "query": "benefits of a weaker dollar",
+      "client_ms": 104.07,
+      "timings_ms": {
+        "embed": 65.64,
+        "retrieve": 32.82,
+        "rerank": null,
+        "total": 98.56
+      }
+    },
+    {
+      "query": "what does france grow and produce",
+      "client_ms": 107.92,
+      "timings_ms": {
+        "embed": 69.29,
+        "retrieve": 32.99,
+        "rerank": null,
+        "total": 102.38
+      }
+    },
+    {
+      "query": "what is a limited fce?",
+      "client_ms": 134.13,
+      "timings_ms": {
+        "embed": 78.73,
+        "retrieve": 50.07,
+        "rerank": null,
+        "total": 128.88
+      }
+    },
+    {
+      "query": "what do zebras eat food",
+      "client_ms": 265.67,
+      "timings_ms": {
+        "embed": 200.32,
+        "retrieve": 59.97,
+        "rerank": null,
+        "total": 260.38
+      }
+    },
+    {
+      "query": "how long does it take to get SAT scores back?",
+      "client_ms": 129.18,
+      "timings_ms": {
+        "embed": 80.11,
+        "retrieve": 43.49,
+        "rerank": null,
+        "total": 123.83
+      }
+    },
+    {
+      "query": "what is als stand for and mean",
+      "client_ms": 134.95,
+      "timings_ms": {
+        "embed": 79.29,
+        "retrieve": 49.88,
+        "rerank": null,
+        "total": 129.27
+      }
+    },
+    {
+      "query": "what are the three shields on the buick insig",
+      "client_ms": 105.97,
+      "timings_ms": {
+        "embed": 71.16,
+        "retrieve": 29.52,
+        "rerank": null,
+        "total": 100.77
+      }
+    },
+    {
+      "query": "deport define",
+      "client_ms": 103.93,
+      "timings_ms": {
+        "embed": 69.3,
+        "retrieve": 29.67,
+        "rerank": null,
+        "total": 99.06
+      }
+    },
+    {
+      "query": "is the earth's magnetic field constant?",
+      "client_ms": 108.84,
+      "timings_ms": {
+        "embed": 78.69,
+        "retrieve": 25.17,
+        "rerank": null,
+        "total": 103.94
+      }
+    },
+    {
+      "query": "how pronounce tiguan",
+      "client_ms": 93.79,
+      "timings_ms": {
+        "embed": 64.03,
+        "retrieve": 24.99,
+        "rerank": null,
+        "total": 89.11
+      }
+    },
+    {
+      "query": "weather in austin texas in march",
+      "client_ms": 89.05,
+      "timings_ms": {
+        "embed": 59.46,
+        "retrieve": 24.53,
+        "rerank": null,
+        "total": 84.07
+      }
+    },
+    {
+      "query": "pink eye treatment how long",
+      "client_ms": 93.19,
+      "timings_ms": {
+        "embed": 60.56,
+        "retrieve": 27.69,
+        "rerank": null,
+        "total": 88.34
+      }
+    },
+    {
+      "query": "meaning of name denise",
+      "client_ms": 121.83,
+      "timings_ms": {
+        "embed": 59.1,
+        "retrieve": 57.91,
+        "rerank": null,
+        "total": 117.1
+      }
+    },
+    {
+      "query": "is oregano good for inflammation",
+      "client_ms": 116.48,
+      "timings_ms": {
+        "embed": 61.48,
+        "retrieve": 50.01,
+        "rerank": null,
+        "total": 111.57
+      }
+    },
+    {
+      "query": "what is bisaya cebuano",
+      "client_ms": 87.55,
+      "timings_ms": {
+        "embed": 57.47,
+        "retrieve": 25.26,
+        "rerank": null,
+        "total": 82.82
+      }
+    },
+    {
+      "query": "what distinguishes a macronutrient from a micronutrient",
+      "client_ms": 92.58,
+      "timings_ms": {
+        "embed": 61.49,
+        "retrieve": 26.38,
+        "rerank": null,
+        "total": 87.96
+      }
+    },
+    {
+      "query": "pa amending the mandatory judicial retirement age",
+      "client_ms": 90.95,
+      "timings_ms": {
+        "embed": 58.13,
+        "retrieve": 27.52,
+        "rerank": null,
+        "total": 85.74
+      }
+    },
+    {
+      "query": "is the fafsa pell grant estimate per semester or year",
+      "client_ms": 97.72,
+      "timings_ms": {
+        "embed": 62.54,
+        "retrieve": 30.08,
+        "rerank": null,
+        "total": 92.7
+      }
+    },
+    {
+      "query": "what is an mla writing format",
+      "client_ms": 92.26,
+      "timings_ms": {
+        "embed": 61.8,
+        "retrieve": 25.68,
+        "rerank": null,
+        "total": 87.56
+      }
+    },
+    {
+      "query": "gatwick airport pick up area",
+      "client_ms": 94.19,
+      "timings_ms": {
+        "embed": 63.36,
+        "retrieve": 25.63,
+        "rerank": null,
+        "total": 89.07
+      }
+    },
+    {
+      "query": "how to practice for your drivers test",
+      "client_ms": 123.69,
+      "timings_ms": {
+        "embed": 59.87,
+        "retrieve": 59.17,
+        "rerank": null,
+        "total": 119.13
+      }
+    },
+    {
+      "query": "what forms at an ocean-ocean convergent boundary",
+      "client_ms": 92.88,
+      "timings_ms": {
+        "embed": 64.03,
+        "retrieve": 23.77,
+        "rerank": null,
+        "total": 87.89
+      }
+    },
+    {
+      "query": "what casinos have rv parks?",
+      "client_ms": 106.65,
+      "timings_ms": {
+        "embed": 64.23,
+        "retrieve": 37.48,
+        "rerank": null,
+        "total": 101.8
+      }
+    },
+    {
+      "query": "what happens if you miss a vein shooting up",
+      "client_ms": 96.95,
+      "timings_ms": {
+        "embed": 64.45,
+        "retrieve": 27.55,
+        "rerank": null,
+        "total": 92.08
+      }
+    },
+    {
+      "query": "is latex paint considered hazardous waste",
+      "client_ms": 102.64,
+      "timings_ms": {
+        "embed": 57.96,
+        "retrieve": 39.44,
+        "rerank": null,
+        "total": 97.48
+      }
+    },
+    {
+      "query": "is the femoral neck part of the hip",
+      "client_ms": 100.57,
+      "timings_ms": {
+        "embed": 59.66,
+        "retrieve": 36.01,
+        "rerank": null,
+        "total": 95.76
+      }
+    },
+    {
+      "query": "the place beyond the pines cast",
+      "client_ms": 103.02,
+      "timings_ms": {
+        "embed": 56.13,
+        "retrieve": 42.4,
+        "rerank": null,
+        "total": 98.61
+      }
+    },
+    {
+      "query": "largest active military",
+      "client_ms": 117.72,
+      "timings_ms": {
+        "embed": 56.64,
+        "retrieve": 56.48,
+        "rerank": null,
+        "total": 113.21
+      }
+    },
+    {
+      "query": "average january temps in mount pleasant, sc",
+      "client_ms": 92.14,
+      "timings_ms": {
+        "embed": 63.5,
+        "retrieve": 24.1,
+        "rerank": null,
+        "total": 87.67
+      }
+    },
+    {
+      "query": "145 kilos in stones and pounds",
+      "client_ms": 106.69,
+      "timings_ms": {
+        "embed": 52.44,
+        "retrieve": 49.65,
+        "rerank": null,
+        "total": 102.17
+      }
+    },
+    {
+      "query": "united states postal service roseburg or",
+      "client_ms": 88.3,
+      "timings_ms": {
+        "embed": 58.36,
+        "retrieve": 25.21,
+        "rerank": null,
+        "total": 83.65
+      }
+    },
+    {
+      "query": "what is a wifi leak sensor",
+      "client_ms": 111.62,
+      "timings_ms": {
+        "embed": 53.44,
+        "retrieve": 53.57,
+        "rerank": null,
+        "total": 107.09
+      }
+    },
+    {
+      "query": "is the femoral nerve a peripheral nerve",
+      "client_ms": 86.47,
+      "timings_ms": {
+        "embed": 56.3,
+        "retrieve": 25.18,
+        "rerank": null,
+        "total": 81.56
+      }
+    },
+    {
+      "query": "steering yoke definition",
+      "client_ms": 96.37,
+      "timings_ms": {
+        "embed": 56.88,
+        "retrieve": 34.91,
+        "rerank": null,
+        "total": 91.87
+      }
+    },
+    {
+      "query": "what do vacuoles and vesicles do",
+      "client_ms": 92.23,
+      "timings_ms": {
+        "embed": 59.77,
+        "retrieve": 27.25,
+        "rerank": null,
+        "total": 87.11
+      }
+    },
+    {
+      "query": "how long to bake whole speckled trout",
+      "client_ms": 91.14,
+      "timings_ms": {
+        "embed": 62.46,
+        "retrieve": 23.66,
+        "rerank": null,
+        "total": 86.21
+      }
+    },
+    {
+      "query": "what county is van nuys ca",
+      "client_ms": 134.7,
+      "timings_ms": {
+        "embed": 59.3,
+        "retrieve": 70.41,
+        "rerank": null,
+        "total": 129.8
+      }
+    },
+    {
+      "query": "what is an x ray photon",
+      "client_ms": 118.95,
+      "timings_ms": {
+        "embed": 62.47,
+        "retrieve": 50.68,
+        "rerank": null,
+        "total": 113.25
+      }
+    },
+    {
+      "query": "how to measure binder size",
+      "client_ms": 95.75,
+      "timings_ms": {
+        "embed": 64.21,
+        "retrieve": 26.04,
+        "rerank": null,
+        "total": 90.34
+      }
+    },
+    {
+      "query": "what does physical education mean",
+      "client_ms": 117.49,
+      "timings_ms": {
+        "embed": 65.51,
+        "retrieve": 46.17,
+        "rerank": null,
+        "total": 111.8
+      }
+    },
+    {
+      "query": "process theories of motivation suggest that",
+      "client_ms": 109.58,
+      "timings_ms": {
+        "embed": 65.98,
+        "retrieve": 39.44,
+        "rerank": null,
+        "total": 105.5
+      }
+    },
+    {
+      "query": "what are the most common geriatric illness",
+      "client_ms": 103.95,
+      "timings_ms": {
+        "embed": 58.83,
+        "retrieve": 40.65,
+        "rerank": null,
+        "total": 99.57
+      }
+    },
+    {
+      "query": "requirements to be able to use virtual machines",
+      "client_ms": 100.61,
+      "timings_ms": {
+        "embed": 60.71,
+        "retrieve": 34.76,
+        "rerank": null,
+        "total": 95.56
+      }
+    }
+  ]
+}

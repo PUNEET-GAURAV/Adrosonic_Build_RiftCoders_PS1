@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trustrag"
+version = "0.1.0"
+description = "Precision-first vector retrieval for enterprise RAG (ADROSONIC Build hackathon)."
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.scripts]
+trustrag = "trustrag.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]

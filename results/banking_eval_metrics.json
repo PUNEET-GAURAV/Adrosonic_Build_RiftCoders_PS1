@@ -1,0 +1,22 @@
+{
+  "latency": {
+    "router_off": {
+      "p50": 33.622400002059294,
+      "p95": 62.256750002052286
+    },
+    "router_on": {
+      "p50": 29.913899998064153,
+      "p95": 54.992075001791804
+    },
+    "router_overhead_p50": 0.04
+  },
+  "routing": {
+    "accuracy": 0.8207547169811321,
+    "fallback_rate": 0.0,
+    "wrong_hard_route_rate": 0.02830188679245283
+  },
+  "safety": {
+    "ambiguous_clarified": 9,
+    "oos_handled": 5
+  }
+}

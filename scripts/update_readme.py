@@ -1,0 +1,2 @@
+with open("README.md", "a", encoding="utf-8") as f:
+    f.write("\n## Banking Vertical: Intent Router\nTrustRAG includes a domain-aware routing layer configured via `configs/banking_taxonomy.yaml`. It evaluates incoming banking queries (e.g. \"KYC documents\") and applies highly efficient pre-retrieval Qdrant payload filters to restrict the search space, avoiding cross-domain semantic hallucination. See `REPORT.md` and `docs/adr/ADR-009-lexical-routing.md` for architecture and latency evaluation.\n")

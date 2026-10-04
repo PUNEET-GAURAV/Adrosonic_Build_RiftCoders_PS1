@@ -1,0 +1,423 @@
+{
+  "run_id": "2026-10-04T07-24-29_hybrid_test_ragas",
+  "git_sha": "9482d202",
+  "config_hash": "a8c05abd60fe",
+  "mode": "hybrid",
+  "split": "test",
+  "n_queries": 100,
+  "top_k": 5,
+  "models": {
+    "embedder": "BAAI/bge-small-en-v1.5",
+    "sparse_model": "self-contained-bm25",
+    "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "generator_model": "llama-3.1-8b-instant",
+    "judge_model": "llama-3.1-8b-instant"
+  },
+  "aggregate": {
+    "context_precision": 0.8338472222222224,
+    "context_recall": 0.9,
+    "n_queries": 100
+  },
+  "per_query": {
+    "1185869": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1185868": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1185854": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1185755": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1184773": {
+      "context_precision": 0.75,
+      "context_recall": 1.0
+    },
+    "467556": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "28213": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "44588": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "410717": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "728808": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "1174761": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "605123": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "534802": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "742216": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "604568": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "499805": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "26191": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "612660": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1174759": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "672511": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "617187": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "33073": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "620911": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "693333": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "315061": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "637779": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "612569": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "32055": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "638438": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "516461": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "481996": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "610348": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "698805": {
+      "context_precision": 0.8041666666666667,
+      "context_recall": 1.0
+    },
+    "524762": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "591215": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "383697": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "1174756": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "758101": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "31967": {
+      "context_precision": 0.5,
+      "context_recall": 1.0
+    },
+    "1174755": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "626917": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "451087": {
+      "context_precision": 0.5,
+      "context_recall": 1.0
+    },
+    "517120": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "519828": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "187582": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "563205": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "759129": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1174754": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "520776": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "447502": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "633369": {
+      "context_precision": 0.95,
+      "context_recall": 1.0
+    },
+    "128498": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "564862": {
+      "context_precision": 0.9166666666666666,
+      "context_recall": 1.0
+    },
+    "683769": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "573198": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "607381": {
+      "context_precision": 0.325,
+      "context_recall": 1.0
+    },
+    "150905": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "50251": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "637862": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "689075": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "627219": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "256481": {
+      "context_precision": 0.325,
+      "context_recall": 1.0
+    },
+    "709821": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "574803": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1184772": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1174751": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "338146": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "543342": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "475482": {
+      "context_precision": 0.5833333333333333,
+      "context_recall": 1.0
+    },
+    "448436": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "419988": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "724374": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "621519": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "471082": {
+      "context_precision": 0.75,
+      "context_recall": 1.0
+    },
+    "1174749": {
+      "context_precision": 0.3333333333333333,
+      "context_recall": 1.0
+    },
+    "716162": {
+      "context_precision": 0.7555555555555555,
+      "context_recall": 1.0
+    },
+    "193572": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "372908": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "662447": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "583500": {
+      "context_precision": 0.5,
+      "context_recall": 1.0
+    },
+    "666179": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "416035": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1174747": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "518239": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "435759": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "38032": {
+      "context_precision": 0.8875,
+      "context_recall": 1.0
+    },
+    "677": {
+      "context_precision": 0.8666666666666667,
+      "context_recall": 1.0
+    },
+    "532464": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "706304": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "1174746": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "503519": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "625796": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "268352": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "614045": {
+      "context_precision": 0.0,
+      "context_recall": 0.0
+    },
+    "717648": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "370420": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "645586": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "482341": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    },
+    "571722": {
+      "context_precision": 0.5,
+      "context_recall": 1.0
+    },
+    "488003": {
+      "context_precision": 1.0,
+      "context_recall": 1.0
+    }
+  }
+}

@@ -1,0 +1,9 @@
+@echo off
+echo Starting TrustRAG API...
+start powershell -ExecutionPolicy Bypass -Command "python -m trustrag.cli serve-api"
+timeout /t 3 /nobreak > nul
+echo Starting TrustRAG UI...
+start powershell -ExecutionPolicy Bypass -Command "python -m trustrag.cli serve-ui"
+echo Waiting for UI to load...
+timeout /t 3 /nobreak > nul
+start http://localhost:8501

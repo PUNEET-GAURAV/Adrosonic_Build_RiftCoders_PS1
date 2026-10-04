@@ -1,0 +1,6 @@
+# Model names. All free / local. Verify Groq's current free-tier list before running.
+embedder: BAAI/bge-small-en-v1.5
+sparse_model: self-contained-bm25      # implemented in adapters/bm25_sparse.py (no fastembed dep)
+reranker: cross-encoder/ms-marco-MiniLM-L-6-v2
+generator_model: llama-3.1-8b-instant # Groq free tier (verify current list)
+judge_model: llama-3.1-8b-instant     # used for LLM-judged RAGAS

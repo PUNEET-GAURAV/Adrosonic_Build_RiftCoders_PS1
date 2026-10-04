@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Data / artifacts (large, regenerable)
+data/corpus/
+results/*.log
+*.snapshot
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Keep the eval set and committed result JSONs
+!data/eval/eval_queries.jsonl
+!results/*.json
+!results/*.csv
+
+results/parquet_cache/

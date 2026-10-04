@@ -1,0 +1,19 @@
+services:
+  qdrant:
+    # Any >=1.10 works (Query API + sparse IDF modifier). Bump to a newer 1.x if this tag is unavailable.
+    image: qdrant/qdrant:v1.12.0
+    container_name: trustrag-qdrant
+    ports:
+      - "6333:6333"   # REST
+      - "6334:6334"   # gRPC (unused, exposed for completeness)
+    volumes:
+      - qdrant_data:/qdrant/storage
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c 'echo > /dev/tcp/localhost/6333' || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:

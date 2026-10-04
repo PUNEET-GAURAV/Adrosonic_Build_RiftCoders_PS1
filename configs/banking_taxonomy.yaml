@@ -1,0 +1,25 @@
+domains:
+  kyc_onboarding:
+    description: "Know Your Customer, identity verification, account opening documents"
+    keywords: ["kyc", "know your customer", "onboarding", "account opening", "identity", "proof", "address", "passport", "pan card", "aadhaar"]
+  savings_current_accounts:
+    description: "Day to day banking, savings, current accounts, overdrafts"
+    keywords: ["savings", "current account", "overdraft", "deposit", "balance", "interest rate", "minimum balance"]
+  loans:
+    description: "Personal loans, home loans, auto loans, EMI, collateral"
+    keywords: ["loan", "emi", "mortgage", "collateral", "interest", "home loan", "personal loan", "car loan", "tenure"]
+  fixed_deposits:
+    description: "Fixed deposits, term deposits, recurring deposits, maturity"
+    keywords: ["fd", "fixed deposit", "term deposit", "rd", "recurring deposit", "maturity", "premature withdrawal", "yield"]
+  insurance_bancassurance:
+    description: "Life insurance, health insurance, premium, claims, bancassurance"
+    keywords: ["insurance", "life insurance", "health", "premium", "claim", "policy", "coverage", "bancassurance"]
+  cards:
+    description: "Credit cards, debit cards, reward points, billing cycle, late fees"
+    keywords: ["card", "credit card", "debit card", "pin", "cvv", "reward points", "billing cycle", "late fee", "limit"]
+  payments_transfers:
+    description: "NEFT, RTGS, IMPS, UPI, SWIFT, wire transfers"
+    keywords: ["neft", "rtgs", "imps", "upi", "swift", "wire", "transfer", "remittance", "beneficiary"]
+  grievance_complaints:
+    description: "Customer service, grievance redressal, ombudsman, complaints"
+    keywords: ["grievance", "complaint", "ombudsman", "dispute", "customer service", "toll free", "support"]

@@ -1,0 +1,17 @@
+# Evaluation protocol. The eval set is generated once (seed 42) and never regenerated.
+seed: 42
+pool_size: 600        # queries drawn from MS MARCO validation
+dev_size: 200         # tuning only
+test_size: 400        # reported numbers only
+top_k: 5
+
+judge:
+  temperature: 0.0
+  llm_judged_n: 50    # LLM-judged RAGAS on the first N test queries (documented)
+  rate_limit_rpm: 25
+  retry_backoff_s: 2.0
+
+benchmark:
+  n_queries: 100
+  warmup: 5           # disclosed and excluded from the summary
+  cache_off: true

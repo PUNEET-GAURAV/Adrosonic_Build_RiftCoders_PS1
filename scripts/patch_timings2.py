@@ -1,0 +1,18 @@
+with open("src/trustrag/ui/index.html", "r", encoding="utf-8") as f:
+    html = f.read()
+
+target_str = """      <div class="card"><div class="card-header"><h2>Dense Baseline</h2><span class="tag">Latency: ${denseTime}</span></div>
+        <div class="card-body">${(dense.results||[]).map(r => renderResult(r)).join("")}</div></div>
+      <div class="card"><div class="card-header"><h2>${modeLabel(mode)}</h2><span class="tag tag-success">Latency: ${targetTime}</span></div>
+        <div class="card-body">${(target.results||[]).map(r => renderResult(r)).join("")}</div></div>"""
+
+replacement_str = """      <div class="card"><div class="card-header"><h2>Dense Baseline</h2><span class="tag">Latency: ${denseTime}</span></div>
+        <div class="card-body">${dense.timings_ms ? `<div class="text-sm text-muted" style="margin-bottom:10px">Retrieved in ${JSON.stringify(dense.timings_ms)} &middot; request_id ${dense.request_id}</div>` : ''}${(dense.results||[]).map(r => renderResult(r)).join("")}</div></div>
+      <div class="card"><div class="card-header"><h2>${modeLabel(mode)}</h2><span class="tag tag-success">Latency: ${targetTime}</span></div>
+        <div class="card-body">${target.timings_ms ? `<div class="text-sm text-muted" style="margin-bottom:10px">Retrieved in ${JSON.stringify(target.timings_ms)} &middot; request_id ${target.request_id}</div>` : ''}${(target.results||[]).map(r => renderResult(r)).join("")}</div></div>"""
+
+html = html.replace(target_str, replacement_str)
+
+with open("src/trustrag/ui/index.html", "w", encoding="utf-8") as f:
+    f.write(html)
+print("Updated successfully")
